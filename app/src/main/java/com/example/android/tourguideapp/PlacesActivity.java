@@ -20,5 +20,6 @@ public class PlacesActivity extends AppCompatActivity {
         String placeWorkTime = placeBundle.getString(PLACE_WORK_TIMES_KEY);
         int placeImageResID = placeBundle.getInt(PLACE_IMAGE_RES_ID_KEY);
 
+
     }
 }
