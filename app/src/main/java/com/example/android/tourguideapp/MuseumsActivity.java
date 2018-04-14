@@ -41,11 +41,11 @@ public class MuseumsActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<Place> adapter, View view, int position, long arg) {
                 Place selectedPlace = (Place) listView.getItemAtPosition(position);
-                Intent placeDetailScreen = new Intent(Museums.this, NowPlaying.class);
-                i.putExtra(SONG_KEY, selectedSong.getsongTitle());
-                i.putExtra(ARTIST_KEY, selectedSong.getartistName());
-                i.putExtra(ALBUM_SRC_KEY, selectedSong.getalbumArtId());
-                startActivity(i);
+                Intent placeDetailScreen = new Intent(MuseumsActivity.this, PlacesActivity.class);
+                selectedPlace.putExtra(SONG_KEY, selectedPlace.getPlaceName());
+                selectedPlace.putExtra(ARTIST_KEY, selectedSong.getartistName());
+                selectedPlace.putExtra(ALBUM_SRC_KEY, selectedSong.getalbumArtId());
+                startActivity(selectedPlace);
             }
 
 
