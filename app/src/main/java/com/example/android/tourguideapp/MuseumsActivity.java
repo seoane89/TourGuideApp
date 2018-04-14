@@ -10,6 +10,12 @@ import android.widget.ListView;
 import java.util.ArrayList;
 
 public class MuseumsActivity extends AppCompatActivity {
+    final static String PLACE_NAME_KEY = "Name Key";
+    final static String PLACE_INFO_KEY = "Info Key";
+    final static String PLACE_WORK_TIMES_KEY = "Work Times Key";
+    final static String PLACE_IMAGE_RES_ID_KEY = "Image Res Key";
+    Bundle placeBundle;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,7 +36,7 @@ public class MuseumsActivity extends AppCompatActivity {
         // Find the {@link ListView} object in the view hierarchy of the {@link Activity}.
         // There should be a {@link ListView} with the view ID called list, which is declared in the
         // word_list.xml file.
-        ListView listView = (ListView) findViewById(R.id.list);
+        final ListView listView = (ListView) findViewById(R.id.list);
 
         // Make the {@link ListView} use the {@link ArrayAdapter} we created above, so that the
         // {@link ListView} will display list items for each word in the list of words.
@@ -39,13 +45,15 @@ public class MuseumsActivity extends AppCompatActivity {
         listView.setAdapter(adapter);
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
-            public void onItemClick(AdapterView<Place> adapter, View view, int position, long arg) {
+            public void onItemClick(AdapterView<?> adapter, View view, int position, long arg) {
                 Place selectedPlace = (Place) listView.getItemAtPosition(position);
                 Intent placeDetailScreen = new Intent(MuseumsActivity.this, PlacesActivity.class);
-                selectedPlace.putExtra(SONG_KEY, selectedPlace.getPlaceName());
-                selectedPlace.putExtra(ARTIST_KEY, selectedSong.getartistName());
-                selectedPlace.putExtra(ALBUM_SRC_KEY, selectedSong.getalbumArtId());
-                startActivity(selectedPlace);
+                placeBundle.putString(PLACE_NAME_KEY, selectedPlace.getPlaceName());
+                placeBundle.putString(PLACE_INFO_KEY, selectedPlace.getPlaceInformation());
+                placeBundle.putString(PLACE_WORK_TIMES_KEY, selectedPlace.getPlaceWorkTime());
+                placeBundle.putInt(PLACE_IMAGE_RES_ID_KEY, selectedPlace.getPlacePictureResID());
+                placeDetailScreen.putExtras(placeBundle);
+                startActivity(placeDetailScreen);
             }
 
 

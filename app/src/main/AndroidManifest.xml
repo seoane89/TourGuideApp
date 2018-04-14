@@ -30,7 +30,8 @@
             android:label="@string/shopping" />
         <activity
             android:name=".PartiesActivity"
-            android:label="@string/parties"></activity>
+            android:label="@string/parties" />
+        <activity android:name=".PlacesActivity"></activity>
     </application>
 
 </manifest>
