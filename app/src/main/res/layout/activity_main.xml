@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorBackground">
+
+    <TextView
+        android:id="@+id/category_museums"
+        style="@style/categoryStyles"
+        android:background="@color/colorCategoryMuseums"
+        android:text="@string/museums" />
+
+    <TextView
+        android:id="@+id/category_landmarks"
+        style="@style/categoryStyles"
+        android:background="@color/colorCategoryLandmarks"
+        android:text="@string/landmarks" />
+
+    <TextView
+        android:id="@+id/category_shopping"
+        style="@style/categoryStyles"
+        android:background="@color/colorCategoryShopping"
+        android:text="@string/shopping" />
+
+    <TextView
+        android:id="@+id/category_parties"
+        style="@style/categoryStyles"
+        android:background="@color/colorCategoryParties"
+        android:text="@string/parties" />
+
+</LinearLayout>

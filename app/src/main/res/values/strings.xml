@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="hello_friends_nwelcome_to_varna">Hello Friends,  \nWelcome to Varna!!!</string>
+    <string name="enter">Enter</string>
+    <string name="museums">Museums</string>
+    <string name="landmarks">Landmarks</string>
+    <string name="shopping">Shopping</string>
+    <string name="parties">Parties</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="categories">Categories</string>
+    <string name="archaelogical_museum_name">Archaelogical Museum</string>
+    <string name="arch_museum_work_times">10AM–5PM</string>
+    <string name="archaelogical_museum_info">"One of the largest museums in Bulgaria, it features 2,150 m²
+        of exhibition area and displays objects from the prehistoric, Thracian, Ancient Greek and Ancient
+        Roman periods of the region's history, as well as from the times of the medieval Bulgarian and Byzantine
+        Empires, the Ottoman rule and the Bulgarian National Revival (including about 900 medieval and Revival icons).
+        The Museum's arguably most celebrated exhibit is the Gold of Varna, the oldest gold treasure in the world,
+        excavated in 1972 and dating to 4600\-4200 BCE, which occupies three separate exhibition halls."</string>
+    <string name="naval_museum_name">Naval Museum</string>
+    <string name="naval_museum_work_times">10AM–6PM</string>
+    <string name="naval_museum_info">"The museum visitors can see original ancient anchors and shop remnants,
+        found on the bottom of the Black Sea; ship head decorations; uniforms of seamen and officers.
+        Desk models show the diversity of the ship collection of the naval and the commercial fleet in various periods.
+        Maritime flags, torpedoes, optical devices of lighthouses from the Bulgarian shores, medals, etc. are presented.
+        Apparatuses and instruments show the complexity of the specifics of naval professions such as navigation and shipbuilding."</string>
+</resources>
