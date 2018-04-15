@@ -14,7 +14,6 @@ public class MuseumsActivity extends AppCompatActivity {
     final static String PLACE_INFO_KEY = "Info Key";
     final static String PLACE_WORK_TIMES_KEY = "Work Times Key";
     final static String PLACE_IMAGE_RES_ID_KEY = "Image Res Key";
-    Bundle placeBundle;
 
 
     @Override
@@ -47,11 +46,12 @@ public class MuseumsActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> adapter, View view, int position, long arg) {
                 Place selectedPlace = (Place) listView.getItemAtPosition(position);
-                Intent placeDetailScreen = new Intent(MuseumsActivity.this, PlacesActivity.class);
+                Bundle placeBundle = new Bundle();
                 placeBundle.putString(PLACE_NAME_KEY, selectedPlace.getPlaceName());
                 placeBundle.putString(PLACE_INFO_KEY, selectedPlace.getPlaceInformation());
                 placeBundle.putString(PLACE_WORK_TIMES_KEY, selectedPlace.getPlaceWorkTime());
                 placeBundle.putInt(PLACE_IMAGE_RES_ID_KEY, selectedPlace.getPlacePictureResID());
+                Intent placeDetailScreen = new Intent(MuseumsActivity.this, PlacesActivity.class);
                 placeDetailScreen.putExtras(placeBundle);
                 startActivity(placeDetailScreen);
             }
