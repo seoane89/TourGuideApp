@@ -25,6 +25,9 @@ public class MuseumsActivity extends AppCompatActivity {
                 R.drawable.arch_museum_image, getString(R.string.archaelogical_museum_info)));
         places.add(new Place(getString(R.string.naval_museum_name), getString(R.string.naval_museum_work_times),
                 R.drawable.naval_museum_image, getString(R.string.naval_museum_info)));
+        places.add(new Place(getString(R.string.battle_varna_museum_name), getString(R.string.battle_varna_museum_work_times),
+                ));
+
 // Create an {@link ArrayAdapter}, whose data source is a list of Strings. The
         // adapter knows how to create layouts for each item in the list, using the
         // simple_list_item_1.xml layout resource defined in the Android framework.
