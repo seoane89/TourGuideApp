@@ -5,4 +5,7 @@
     <dimen name="min_height_for_touch_objects">48dp</dimen>
     <dimen name="category_text_size">18sp</dimen>
     <dimen name="left_margin_value">12dp</dimen>
+    <dimen name="bottom_margin_8dp">8dp</dimen>
+    <dimen name="body_textsize">16sp</dimen>
+    <dimen name="horizontal_margin">16dp</dimen>
 </resources>

@@ -22,9 +22,13 @@ public class MuseumsFragment extends Fragment {
     final static String PLACE_INFO_KEY = "Info Key";
     final static String PLACE_WORK_TIMES_KEY = "Work Times Key";
     final static String PLACE_IMAGE_RES_ID_KEY = "Image Res Key";
+    public static final String ARG_PAGE = "ARG_PAGE";
+
+    private int mPage;
 
     public MuseumsFragment() {
         // Required empty public constructor
+
     }
 
 
