@@ -35,12 +35,14 @@ public class LandmarksFragment extends Fragment {
 
 
         ArrayList<Place> places = new ArrayList<Place>();
-        places.add(new Place(getString(R.string.archaelogical_museum_name), getString(R.string.arch_museum_work_times),
-                R.drawable.arch_museum_image, getString(R.string.archaelogical_museum_info)));
-        places.add(new Place(getString(R.string.naval_museum_name), getString(R.string.naval_museum_work_times),
-                R.drawable.naval_museum_image, getString(R.string.naval_museum_info)));
-        places.add(new Place(getString(R.string.battle_varna_museum_name), getString(R.string.battle_varna_museum_work_times),
-                R.drawable.battle__varna_museum, getString(R.string.battle_varna_museum_info)));
+        places.add(new Place(getString(R.string.aquarium_landmark_name), getString(R.string.aquarium_landmark_work_times),
+                R.drawable.aquarium_image, getString(R.string.aquarium_landmark_info)));
+        places.add(new Place(getString(R.string.dolphinarium_landmark_name), getString(R.string.dolphinarium_landmark_work_times),
+                R.drawable.dolphinarium_image, getString(R.string.dolphinarium_landmark_info)));
+        places.add(new Place(getString(R.string.observatory_landmark_name), getString(R.string.observatory_landmark_work_times),
+                R.drawable.observatory_varna_image, getString(R.string.observatory_landmark_info)));
+        places.add(new Place(getString(R.string.zoo_landmark_name), getString(R.string.zoo_landmark_work_times),
+                R.drawable.zoo_varna_image, getString(R.string.zoo_landmark_info)));
 
 // Create an {@link ArrayAdapter}, whose data source is a list of Strings. The
         // adapter knows how to create layouts for each item in the list, using the

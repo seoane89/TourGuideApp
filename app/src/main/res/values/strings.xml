@@ -98,13 +98,13 @@ Information materials and souvenirs are sold in the museum."</string>
     <string name="dolphinarium_landmark_name">Dolphinarium</string>
     <string name="dolphinarium_landmark_work_times">Day off: Monday
 
-\n October - Mart: 12:00;
+\n October - March: 12:00;
 
 \n April: 12:00; 15:30;
 
 \n May - June: 10:30; 12:00; 15:30;
 
-]n July - August:10:30; 12:00; 15:30; 17:00;</string>
+\n July - August:10:30; 12:00; 15:30; 17:00;</string>
     <string name="dolphinarium_landmark_info">"Festa Dolphinarium is the only attraction of its kind in Bulgaria. It is situated amidst the greenery of the Seaside Garden of Varna and offers a wonderful view over the sea.
 
  The Dolphinarium was inaugurated on 11.08.1984 and quickly became a symbol of Varna and a landmark of Bulgarian tourism. The Dolphinarium is a permanent site on the agenda of all visitors of the Black Sea coast.
@@ -115,14 +115,40 @@ Information materials and souvenirs are sold in the museum."</string>
     <string name="aquarium_landmark_work_times">June - September: 09:00 - 19:00; Without a day off
 
 \n October - May: 09:00 - 17:00; Day off: Monday</string>
-    <string name="aquarium_landmark_info">""</string>
+    <string name="aquarium_landmark_info">"Hundreds of species of fishes including mollusks, actinides, crabs and periwinkles were featured in the aquarium. Various species of fresh water river fish were also added to the aquarium. Being a novel attraction, the aquarium pulled large crowds from various parts of the country. Children were especially attracted to the huge variety of exotic fish that they had never ever seen before. Youngsters and adults alike were fascinated by the entertainment and educational value that the aquarium offered to its visitors. The Varna aquarium and the Sea Garden itself became one of the most popular and frequently visited attractions in the city."</string>
 
-    <string name="observatory_landmark_name"></string>
-    <string name="observatory_landmark_work_times"></string>
-    <string name="observatory_landmark_info">""</string>
+    <string name="observatory_landmark_name">Astronomical observatory \"Nicolaus Copernicus\"</string>
+    <string name="observatory_landmark_work_times">"April-May: Tue, Thu, Sat:from 5 p.m.
 
-    <string name="zoo_landmark_name"></string>
-    <string name="zoo_landmark_work_times"></string>
-    <string name="zoo_landmark_info">""</string>
+ June: Mon-Sat: from 5 p.m.
+
+ July-August: Mon-Sat: from 5 p.m.and from 7 p.m.
+
+ September: Tue, Thu, Sat:from 5 p.m.
+
+ October: Thu, Sat:from 5 p.m.
+
+ November-March: Sat:from 5 p.m."</string>
+    <string name="observatory_landmark_info">"The blast - off to the first artificial satellite of the Earth, provoke a huge interest in Bulgaria and this is the main reason for the formation of lots of clubs, devoted to the space. The enthusiasm was the reason to be established in the town of Varna in 1960 the first astronaut and astronomic club. Only a year later to the club was given the old Summer Theater in the central part of the sea garden in Varna. On 22 th. of May 1968 was opened the first astronomical complex in Bulgaria, named after Nikolai Kopernik. It consists of astronomical observatory, planetarium and a tower with Phuko’s pendulum.
+
+The main scientific reason is the observing and the shooting of artificial satellites on Earth, another reason is the education in this discipline. There is a monument of Kopernik in front of the planetarium’s entrance, made by professor L. Dalchev and P. Atanasov.
+
+ There are two spinning coupons on the third floor of the observatory, which were equipped with refractor 80/1200 mm at the beginning and a bigger telescope Kasegren 150/2250 mm.
+
+ The observatory is the first of this type in Bulgaria. The diameter of the coupon is 10,5 m. It is managed from the lector’s deck and can project over the coupon 5500 stars. In addition there are searchlights used for demonstration of the moving planets through the stars. There is also a special device which shows the solar system from 5-milliard km. From the beginning till 1998, the planetarium was visited from over 800 000 of people.
+
+ In the planetarium’s tower was assembled the Phuko’s pendulum. It is unique at the Balkan Peninsula and is the only prove that the Earth turns on its axis. In the premise under it, there is a small room where the visitors can observe the swing of the pendulum. In 1998 the Varna municipality took à decision to reconstruct the planetarium building.
+
+ The renewed building was opened on 15 th August 2002. The origin architecture was preserved, but now it is more modern, thanks to the architecture G. Savakov. For better vision adaptation there is a figural wall and the foyer dimly lightened, before entering into the hall. There are computer hall, library and lecture halls in the premises under the coupon. The decorative lights in the night convert the observatory into one of the accents in the sea garden."</string>
+
+    <string name="zoo_landmark_name">The Zoo - Varna</string>
+    <string name="zoo_landmark_work_times">"June - August: 09:00 - 19:00
+
+ Without a day off
+
+ September- May: 09:00 - 18:00
+
+ Without a day off"</string>
+    <string name="zoo_landmark_info">"The zoo disposes 72 different kinds of animals and birds, among which are ostrich, panther, llamas, camel, lions, tiger, pink pelican, peacock, etc. The Zoo is created a good water base for water birds among rich verdure. The visitors can watch the natural behavior of birds, while they float or plunge into the three cascade lakes. The Zoo is cared of 17 protected kinds of bids and animals, written in the Red Book of Bulgaria. Among the most reputable inhabitants are a couple of black swans, which are the only one of that kind in Bulgaria. Children and adults are attracted also by a couple of kangaroos, which came here in the end of 2007."</string>
 
 </resources>

@@ -45,6 +45,8 @@ public class MuseumsFragment extends Fragment {
                 R.drawable.naval_museum_image, getString(R.string.naval_museum_info)));
         places.add(new Place(getString(R.string.battle_varna_museum_name), getString(R.string.battle_varna_museum_work_times),
                 R.drawable.battle__varna_museum, getString(R.string.battle_varna_museum_info)));
+        places.add(new Place(getString(R.string.etnographic_museum_name), getString(R.string.etnographic_museum_work_times),
+                R.drawable.etnographic_museum_varna, getString(R.string.etnographic_museum_info)));
 
 
 // Create an {@link ArrayAdapter}, whose data source is a list of Strings. The
