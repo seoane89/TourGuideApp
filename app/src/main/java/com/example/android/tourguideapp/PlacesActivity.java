@@ -28,7 +28,7 @@ public class PlacesActivity extends AppCompatActivity {
         {
         nameTextView.setText(placeBundle.getString(PLACE_NAME_KEY));
         infoTextView.setText(placeBundle.getString(PLACE_INFO_KEY));
-        workTimesTextView.setText(getString(R.string.working_time_text) + placeBundle.getString(PLACE_WORK_TIMES_KEY));
+        workTimesTextView.setText(placeBundle.getString(PLACE_WORK_TIMES_KEY));
         pictureImageView.setImageResource(placeBundle.getInt(PLACE_IMAGE_RES_ID_KEY));
 
 
