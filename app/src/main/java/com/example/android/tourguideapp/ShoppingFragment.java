@@ -35,13 +35,18 @@ public class ShoppingFragment extends Fragment {
 
 
         ArrayList<Place> places = new ArrayList<Place>();
-        places.add(new Place(getString(R.string.archaelogical_museum_name), getString(R.string.arch_museum_work_times),
-                R.drawable.arch_museum_image, getString(R.string.archaelogical_museum_info)));
-        places.add(new Place(getString(R.string.naval_museum_name), getString(R.string.naval_museum_work_times),
-                R.drawable.naval_museum_image, getString(R.string.naval_museum_info)));
-        places.add(new Place(getString(R.string.battle_varna_museum_name), getString(R.string.battle_varna_museum_work_times),
-                R.drawable.battle__varna_museum, getString(R.string.battle_varna_museum_info)));
-
+        places.add(new Place(getString(R.string.grand_mall_shopping_name), getString(R.string.grand_mall_shopping_work_times),
+                R.drawable.grand_mall_image, getString(R.string.grand_mall_shopping_info)));
+        places.add(new Place(getString(R.string.varna_mall_shopping_name), getString(R.string.varna_mall_shopping_work_times),
+                R.drawable.varna_mall_image, getString(R.string.varna_mall_shopping_info)));
+        places.add(new Place(getString(R.string.farmers_market_shopping_name), getString(R.string.farmers_market_shopping_work_times),
+                R.drawable.farmers_market_image, getString(R.string.farmers_market_shopping_info)));
+        places.add(new Place(getString(R.string.central_market_shopping_name), getString(R.string.central_market_shopping_work_times),
+                R.drawable.central_market_image, getString(R.string.central_market_shopping_info)));
+        places.add(new Place(getString(R.string.chataldja_market_shopping_name), getString(R.string.central_market_shopping_work_times),
+                R.drawable.chataldja_market_image, getString(R.string.chataldja_market_shopping_info)));
+        places.add(new Place(getString(R.string.clocktower_market_shopping_name), getString(R.string.clocktower_market_shopping_work_times),
+                R.drawable.clocktower_market_image, getString(R.string.clocktower_market_shopping_info)));
 // Create an {@link ArrayAdapter}, whose data source is a list of Strings. The
         // adapter knows how to create layouts for each item in the list, using the
         // simple_list_item_1.xml layout resource defined in the Android framework.
