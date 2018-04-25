@@ -246,7 +246,9 @@ In the area of ​​market "clock" work area for short-term paid parking on the
     <string name="copacabana_club_name">Club Copacabana</string>
     <string name="copacabana_club_work_times">21:00–05:00</string>
     <string name="copacabana_club_info">"If you’re a fan of the retro music, this club is the best place to choose for entertainment in the hot summer nights."</string>
-    <string name="varna_info">Varna is one of the most visited cities in Europe by tourists who travel for pleasure and holidaymakers. Varna is the third largest city in Bulgaria (with population more than 347 840 people), with an area of 205 sq. km. Its situation on the Northern shore of the Black Sea, along with its richness in natural resources make it one of the famous resorts Europe wide, definitely the largest one in the Black Sea region. It also happens to be on the crossroads between Western Europe and the Middle East.</string>
+    <string name="varna_info">"Varna is one of the most visited cities in Europe by tourists who travel for pleasure and holidaymakers.
+        Varna is the third largest city in Bulgaria (with population more than 347 840 people), with an area of 205 sq. km. Its situation on the Northern shore of the Black Sea, along with its richness in natural resources make it one of the famous resorts Europe wide, definitely the largest one in the Black Sea region.
+        It also happens to be on the crossroads between Western Europe and the Middle East."</string>
 
 
 </resources>

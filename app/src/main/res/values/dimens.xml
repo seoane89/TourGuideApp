@@ -10,4 +10,5 @@
     <dimen name="horizontal_margin">16dp</dimen>
     <dimen name="min_height_for_images">240dp</dimen>
     <dimen name="intro_text_size">22sp</dimen>
+    <dimen name="accent_2dp">2dp</dimen>
 </resources>
