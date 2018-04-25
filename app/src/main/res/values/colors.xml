@@ -13,4 +13,6 @@
     <color name="colorBackground">#e8eaf6</color>
     <color name="black">#000000</color>
     <color name="colorWhiteTransp">#8cffffff</color>
+    <color name="colorDarkGreyTransp">#44212121</color>
+
 </resources>

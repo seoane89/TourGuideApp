@@ -152,7 +152,7 @@ The main scientific reason is the observing and the shooting of artificial satel
     <string name="zoo_landmark_info">"The zoo disposes 72 different kinds of animals and birds, among which are ostrich, panther, llamas, camel, lions, tiger, pink pelican, peacock, etc. The Zoo is created a good water base for water birds among rich verdure. The visitors can watch the natural behavior of birds, while they float or plunge into the three cascade lakes. The Zoo is cared of 17 protected kinds of bids and animals, written in the Red Book of Bulgaria. Among the most reputable inhabitants are a couple of black swans, which are the only one of that kind in Bulgaria. Children and adults are attracted also by a couple of kangaroos, which came here in the end of 2007."</string>
 
     <string name="grand_mall_shopping_name">Grand Mall</string>
-    <string name="grand_mall_shopping_work_times"></string>
+    <string name="grand_mall_shopping_work_times">10:00 - 22:00</string>
     <string name="grand_mall_shopping_info">"Grand Mall is the biggest trade center in Varna
 Grand Mall is the newest and the largest Mall development in Varna, Bulgaria.
 The located is long the road to the airport, close to the city centre and adjacent to the central bus terminal.
@@ -162,7 +162,7 @@ For first time are presented Carrefour, Zara, Massimo Dutti, Humanic, Playlife, 
 •	More than 200 stores"</string>
 
     <string name="varna_mall_shopping_name">Mall Varna</string>
-    <string name="varna_mall_shopping_work_times"></string>
+    <string name="varna_mall_shopping_work_times">10:00 - 22:00</string>
     <string name="varna_mall_shopping_info">"Mall Varna is one of the most popular establishments in Varna and the region, providing a variety of opportunities for leisure, shopping and entertainment suitable for every age group.
 
 The territory of Mall Varna houses nearly 150 retail stores, which offer goods of more than 300 world famous brands, as well as numerous attractions, making one’s stay at the complex an enjoyable experience.
@@ -184,8 +184,9 @@ Among the atmosphere of the old town square near a real fountain neat shops offe
 The shopping center has a large outdoor parking and underground parking on 3 levels"</string>
 
     <string name="farmers_market_shopping_name">"Farmers Market"</string>
-    <string name="farmers_market_shopping_work_times"></string>
-    <string name="farmers_market_shopping_info">""</string>
+    <string name="farmers_market_shopping_work_times">"Saturday 11:00 - 15:00
+        Sunday 11:00 - 18:00"</string>
+    <string name="farmers_market_shopping_info">"The visitors to the Saturday Farmers Market will be able to sample typical Bulgarian food and specialties and buy directly from farmers from the region seasonal organic fruits and vegetables, bread, snacks and pastry from spelt and einkorn wheat, fresh and dried herbs and spices, honey and bee products, sheep, goat and buffalo milk and meat delicacies, chokeberry wine and juice, healing syrups from elderberry and acacia, lavender, cucumber and moringa oil, homemade soaps, natural cosmetics and many more typical Bulgarian products not available in the stores."</string>
 
     <string name="central_market_shopping_name">Central Market</string>
     <string name="central_market_shopping_work_times">09:00-18:00</string>
@@ -193,12 +194,12 @@ The shopping center has a large outdoor parking and underground parking on 3 lev
 Here you can find a wide variety of fresh fruits and vegetables, meat, milk, mushrooms and any other food. Also clothing, shoes, textiles, cosmetics and others."</string>
 
     <string name="chataldja_market_shopping_name">\"Chataldja\" Market</string>
-    <string name="chataldja_market_shopping_work_times"></string>
+    <string name="chataldja_market_shopping_work_times">09:00-18:00</string>
     <string name="chataldja_market_shopping_info">"Market "Chataldja" is located in the square between the boulevard. "Chataldja" street. "Tsar Asen" street. "Pecs" street. "Voinishka". Here you will find a variety of fresh fruits and vegetables, prepared foods, meat and meat products, mushrooms and all sorts of food and clothing, shoes, household goods, industrial goods and others.
 In the area of market "Chataldja" work areas for short-term paid parking on the boulevard. "Chataldja" street. "Tsar Asen"."</string>
 
     <string name="clocktower_market_shopping_name">Market "Clock Tower"</string>
-    <string name="clocktower_market_shopping_work_times"></string>
+    <string name="clocktower_market_shopping_work_times">09:00-18:00</string>
     <string name="clocktower_market_shopping_info">"Market "The Clock Tower" is situated in the center of town. Varna - between "Ruse" and "Kavala" street.
 In 2009. most visited by tourists market Varna change completely its image and now it meets the requirements for a central market in the European city. New tables for fruits and vegetables from a polycarboxylic structure replaced the worn stalls etc "Blue Market" has gained a new beautiful and modern appearance.
 The market is composed entirely of open shelves and attracts customers with high quality and low prices offered fruits and vegetables, which for the most part are native production.
