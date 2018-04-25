@@ -11,22 +11,50 @@
         android:scaleType="centerCrop"
         android:src="@drawable/varna_splash_image" />
 
-    <TextView
-        style="@style/roundedCornersBlueBackground"
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/hello_friends_nwelcome_to_varna"
-        android:textColor="@color/colorWhiteSolid"
-        android:textSize="@dimen/title_text_size"
-        android:textStyle="bold" />
+        android:layout_height="match_parent"
+        android:background="@color/colorWhiteTransp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/bottom_margin_8dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="@dimen/vertical_margin"
+                android:gravity="center"
+                android:text="@string/hello_friends_nwelcome_to_varna"
+                android:textColor="@color/colorPrimary"
+                android:textSize="@dimen/title_text_size"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/vertical_margin"
+                android:text="@string/varna_info"
+                android:textColor="@color/colorDarkGreySolid"
+                android:textSize="@dimen/intro_text_size"
+
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
 
     <TextView
         android:id="@+id/enter_button"
         style="@style/buttonsTextStyle"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:minHeight="@dimen/min_height_for_touch_objects"
         android:text="@string/enter" />
 
 </RelativeLayout>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/places_info_container"
     android:layout_width="match_parent"
@@ -44,6 +43,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginVertical="@dimen/vertical_margin"
+            android:minHeight="@dimen/min_height_for_images"
             android:scaleType="centerCrop"
             tools:src="@drawable/arch_museum_image" />
 

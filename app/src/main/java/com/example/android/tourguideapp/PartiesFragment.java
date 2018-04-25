@@ -35,12 +35,21 @@ public class PartiesFragment extends Fragment {
 
 
         ArrayList<Place> places = new ArrayList<Place>();
-        places.add(new Place(getString(R.string.archaelogical_museum_name), getString(R.string.arch_museum_work_times),
-                R.drawable.arch_museum_image, getString(R.string.archaelogical_museum_info)));
-        places.add(new Place(getString(R.string.naval_museum_name), getString(R.string.naval_museum_work_times),
-                R.drawable.naval_museum_image, getString(R.string.naval_museum_info)));
-        places.add(new Place(getString(R.string.battle_varna_museum_name), getString(R.string.battle_varna_museum_work_times),
-                R.drawable.battle__varna_museum, getString(R.string.battle_varna_museum_info)));
+        places.add(new Place(getString(R.string.planet_club_name), getString(R.string.planet_club_work_times),
+                R.drawable.planet_club_image, getString(R.string.planet_club_info)));
+        places.add(new Place(getString(R.string.makalali_club_name), getString(R.string.makalali_club_work_times),
+                R.drawable.makalali_club_image, getString(R.string.makalali_club_info)));
+        places.add(new Place(getString(R.string.laplaya_club_name), getString(R.string.laplaya_club_work_times),
+                R.drawable.laplaya_club_image, getString(R.string.laplaya_club_info)));
+        places.add(new Place(getString(R.string.chaspik_club_name), getString(R.string.chaspik_club_work_times),
+                R.drawable.chaspik_club_image, getString(R.string.chaspik_club_info)));
+        places.add(new Place(getString(R.string.xtravaganzza_club_name), getString(R.string.xtravaganzza_club_work_times),
+                R.drawable.xtravaganzza_club_image, getString(R.string.xtravaganzza_club_info)));
+        places.add(new Place(getString(R.string.horizont_club_name), getString(R.string.horizont_club_work_times),
+                R.drawable.horizont_club_image, getString(R.string.horizont_club_info)));
+        places.add(new Place(getString(R.string.copacabana_club_name), getString(R.string.copacabana_club_work_times),
+                R.drawable.copacabana_club_image, getString(R.string.copacabana_club_info)));
+
 
 // Create an {@link ArrayAdapter}, whose data source is a list of Strings. The
         // adapter knows how to create layouts for each item in the list, using the

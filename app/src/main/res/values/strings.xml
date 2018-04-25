@@ -215,4 +215,38 @@ You will also find shops and stalls offering industrial and food:
 In the area of ​​market "clock" work area for short-term paid parking on the Street. "Ruse".
 "</string>
 
+    <string name="planet_club_name">Club Planet</string>
+    <string name="planet_club_work_times">Mon-Sun: 9am – 3am</string>
+    <string name="planet_club_info">"A fabulous and fancy bar for every time of the day. Here you can have your morning coffee,
+        your lunch at the sunny garden and your drinks enjoying great music and having fun with friends
+        (famous DJ’s and performers are often invited)."</string>
+
+    <string name="makalali_club_name">Club Makalali</string>
+    <string name="makalali_club_work_times">08:00 – 02:00</string>
+    <string name="makalali_club_info">""</string>
+
+    <string name="laplaya_club_name">Club La Playa</string>
+    <string name="laplaya_club_work_times">09:00-04:00</string>
+    <string name="laplaya_club_info">"Beach club with dj’s every night where you can chill with friends at the bar,
+        dance or take a break on one of the king-size beds on the beach."</string>
+
+    <string name="chaspik_club_name">Chas Pik Club</string>
+    <string name="chaspik_club_work_times">22:00–06:00</string>
+    <string name="chaspik_club_info">"This is one of the best clubs to go if you’re pop – folk and Balkan music fans."</string>
+
+    <string name="xtravaganzza_club_name">Xtravaganzza Club</string>
+    <string name="xtravaganzza_club_work_times">22:00–06:00</string>
+    <string name="xtravaganzza_club_info">"One of the most popular clubs in Varna with unique modern atmosphere and different music,
+        depends on the night…pop-folk, house, hip-hop…but one thing is for sure – the party is always guaranteed."</string>
+
+    <string name="horizont_club_name">Club Horizont</string>
+    <string name="horizont_club_work_times">22:00-04:00</string>
+    <string name="horizont_club_info">"Horizont is one of the most preferable clubs and is open year round. It’s a scene for many Bulgarian and world famous dj’s and performers."</string>
+
+    <string name="copacabana_club_name">Club Copacabana</string>
+    <string name="copacabana_club_work_times">21:00–05:00</string>
+    <string name="copacabana_club_info">"If you’re a fan of the retro music, this club is the best place to choose for entertainment in the hot summer nights."</string>
+    <string name="varna_info">Varna is one of the most visited cities in Europe by tourists who travel for pleasure and holidaymakers. Varna is the third largest city in Bulgaria (with population more than 347 840 people), with an area of 205 sq. km. Its situation on the Northern shore of the Black Sea, along with its richness in natural resources make it one of the famous resorts Europe wide, definitely the largest one in the Black Sea region. It also happens to be on the crossroads between Western Europe and the Middle East.</string>
+
+
 </resources>
