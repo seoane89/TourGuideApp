@@ -9,24 +9,47 @@
     <string name="main_activity">Main Activity</string>
     <string name="categories">Categories</string>
     <string name="archaelogical_museum_name">Archaelogical Museum</string>
-    <string name="arch_museum_work_times">10AM–5PM</string>
-    <string name="archaelogical_museum_info">"One of the largest museums in Bulgaria, it features 2,150 m²
-        of exhibition area and displays objects from the prehistoric, Thracian, Ancient Greek and Ancient
-        Roman periods of the region's history, as well as from the times of the medieval Bulgarian and Byzantine
-        Empires, the Ottoman rule and the Bulgarian National Revival (including about 900 medieval and Revival icons).
-        The Museum's arguably most celebrated exhibit is the Gold of Varna, the oldest gold treasure in the world,
-        excavated in 1972 and dating to 4600\-4200 BCE, which occupies three separate exhibition halls."</string>
+    <string name="arch_museum_work_times">
+ June - September: 10:00 - 17:00, Without a day off
+
+\n October- May: 10:00 - 17:00, Closed on Sunday and Monday</string>
+    <string name="archaelogical_museum_info">"The Archaeological Museum of Varna was established in 1887 by the brothers Karel and Herman Shkorpil (archaeologists and scientists of Czech and Bulgarian origin, founders of the Bulgarian archaeology and museum activity).
+
+
+ The building in which it is housed was constructed in 1892 – 1898 for a school – a Girls High School. It was built in a late baroque style with basement premises and two floors. It has an almost square shape and a spacious internal yard. The exposition area of the museum is 2 150 square meters. There are also funds, a library and a children education museum.
+
+
+ Some of the premises and the corridors are decorated with wall paintings. A continuous corridor surrounds the entire building and one can enter the exhibition halls through it. Along a wide staircase at the south part, one enters a foyer, where the information desk and the pavilion for souvenirs and museum issues are placed. This is the connection with the exhibition halls and the basement area, where the library and the single children education museum in the country is situated.
+
+
+ The archaeological museum shows original finds from the Paleolithic Age /about 100 000 years BC/ to the Middle Ages /7th – 8th/ century, many of which are of great significance to the archaeology of Europe and the world. The largest Mesolithic collection of flint tools in South-East Europe, the largest collections of ancient terracotta, tombstone reliefs, lamps and glass vessels in Bulgaria are placed here.
+
+
+ The most significant exponents in the museum are from the Varna Eneolith necropolis which was found during accidental construction works in the west industrial zone of Varna in 1972. The Varna necropolis soon turned into a sensational scientific find, the significance of which surpasses largely the limits of the ancient history of contemporary Bulgaria. As a result of the researches, 294 tombs have been found by now. The golden objects alone, found in the examined tombs, are more than 3 000, and have a total weight of more than 6 kilograms, and their diversity is significant – more than 38 different types. Very large is also the quantity of finds of other materials – the copper articles are more than 160; the flint articles - more than 230; almost 90 made of stone and marble. Multiple shells of Mediterranean mollusca have been found, and about 1100 decorations have been made of them - bracelets, beads and applications. The ceramics – more than 650 clay pots, is an often found tomb inventory. Among them, two pots occupy a specific place. The decoration on their surface is painted with golden paint.
+
+
+ Unique exponents of the Hellenistic age, the Roman age and the Late Antiquity are presented; as well as rare premonetary forms, more than 2000 golden, silver, bronze and copper antic and middle age coins. Stone inscriptions from the history of the Bulgarian state are also presented; and also the largest in the country collections of early Bulgarian belt decorations and jewels dating from the Second Bulgarian Empire (1185 – 1393).
+
+
+ A representative part of the rich collection of the museum is presented in six halls - 150 icons (14th – 19th century). Here you can see exceptionally rich and old specimens, as well as top achievements of the Tryavna icon-painting school. With its icon collection, the Varna Museum is ranked immediately after the National Museum of History in Sofia.
+
+
+ Tickets for the museum and information materials can be bought in the foyer, where the pavilion for souvenirs, information materials, specialized literature, etc. is situated.The exposition is arranged chronologically, as materials from the various historical ages are consecutively presented, in order to trace the development of the human society during thousands of years in the Varna region."</string>
     <string name="naval_museum_name">Naval Museum</string>
-    <string name="naval_museum_work_times">10AM–6PM</string>
-    <string name="naval_museum_info">"The museum visitors can see original ancient anchors and shop remnants,
-        found on the bottom of the Black Sea; ship head decorations; uniforms of seamen and officers.
-        Desk models show the diversity of the ship collection of the naval and the commercial fleet in various periods.
-        Maritime flags, torpedoes, optical devices of lighthouses from the Bulgarian shores, medals, etc. are presented.
-        Apparatuses and instruments show the complexity of the specifics of naval professions such as navigation and shipbuilding."</string>
+    <string name="naval_museum_work_times">April- October: 10:00- 18:00, Closed on Mondays
+
+ \n November- March: 09:30- 17:30, Closed on Sundays and Mondays</string>
+    <string name="naval_museum_info">"The first steps of the Maritime Museum were established as early as 1883 when the collection of old sea articles began in Ruse by the officers in the Danube fleet. The first public exposition of the Maritime Museum was in Varna and was established on 20 May 1923 due to the public organization called the Bulgarian Public Maritime Agreement.
+
+ In its expositions the museum presents maritime Bulgaria in its wholeness. The most important moments and processes of the naval activities of the Bulgarians, the construction of the maritime fleet, the participation of our seamen in the war between Serbia and Bulgaria (1885), the Balkan War (1912 – 1913), the First World War (1914 – 1918) and the Second World War (1939 – 1945) is presented on a relatively small area of about 400 square meters.
+
+ The museum visitors can see original ancient anchors and shop remnants, found on the bottom of the Black Sea; ship head decorations; uniforms of seamen and officers. Desk models show the diversity of the ship collection of the naval and the commercial fleet in various periods. Maritime flags, torpedoes, optical devices of lighthouses from the Bulgarian shores, medals, etc. are presented. Apparatuses and instruments show the complexity of the specifics of naval professions such as navigation and shipbuilding"</string>
     <string name="working_time_text">"Working Time:"</string>
-    <string name="battle_varna_museum_name">Battle of Varna Museum</string>
-    <string name="battle_varna_museum_work_times">09:30- 17:00</string>
-    <string name="battle_varna_museum_info">The park-museum „Vladislav Varnenchik” is a memorial complex, situated in the center of the battlefield, in the middle of an unique park on an area of 30 decares.
+    <string name="battle_varna_museum_name">Park-museum \"Vladislav Varnenchik\"</string>
+    <string name="battle_varna_museum_work_times">April- October: 09:30- 17:00; Closed on Mondays and Tuesdays
+
+\n November- March: 09:30- 17:00; Closed on Sundays and Mondays</string>
+    <string name="battle_varna_museum_info">"The park-museum „Vladislav Varnenchik” is a memorial complex, situated in the center of the battlefield, in the middle of an unique park on an area of 30 decares.
 
  It is located at the western part of Varna at the place of the battlefield from 10.11.1444 , where the Polish- Hungarian King Vladislav Yagello lost his life.
 
@@ -34,9 +57,98 @@
 
  In the exposition every visitor has the possibility to see :
 
-  \n - arms and equipment from XV century, found on the battlefield (helmets, cross-bows, swords, shields, spears, etc.)
+\n  - arms and equipment from XV century, found on the battlefield (helmets, cross-bows, swords, shields, spears, etc.)
 
-  \n- paintings, sculptures, prints and other works of art, dedicated to the battle of Varna
+\n  - paintings, sculptures, prints and other works of art, dedicated to the battle of Varna
 
-  \n- flags, models, tickets and coats of arms</string>
+\n  - flags, models, tickets and coats of arms
+
+\n On our territory there can be seen two Thracian mounds where a Thracian tomb from IV c. BC is situated. In 1935 a token mausoleum of the perished 20-year-old King Vladislav Varnenchik is built above it. The museum is open to visitors in 1964 in honour of 520th anniversary from the battle of Varna between the Christian armies of the Polish- Hungarian King Vladislav III Yagello and the Turkish armies under command of sultan Murad II. In 1964 is raised a monument of Yanosh Hunyadi - commander-in-chief of the King Vladislav’s army, Transylvanian leader, regent of Hungaria from 1446. In 2004 the museum and the exposition are entirely modernized. The museum disposes with a hall for temporary exhibitions. Among the interesting exhibitions, presented in it to this moment, they are:
+
+  - “Historical medieval costumes”
+
+  - Exhibition- Printing of Varna’s graphic artist Borislav Kuzmanov
+
+  - “Poland in the epoch of the Yagellons ”(made in the Museum to the Polish army in Warsaw)
+
+  - The photo-exhibition “Knight’s skirmishes beside the fortress Varna” (photographed at the time of the recovery of the battle of Varna on 18th May 2008)
+
+  - The international exhibition “Warriors of freedom”, dedicated to the 130th anniversary from the Liberation of Bulgaria, etc.
+
+ A special hall in the museum building is dedicated to the commander-in-chief Yanosh Hunyadi.
+
+ In the Exhibition hall Petar Dimkov are exposed personal belongings, photographs, orders and documents about the life and the activity of “cosmic Bulgarian” whom today we call The Healer.
+
+ The museum park with an area of about 30 decares is afforested with an unique vegetation and predisposes for a wonderful short relaxation.
+
+ The park-museum “Vladislav Varnenchik” is a branch of the National Museum of Military history – Sofia."</string>
+
+    <string name="etnographic_museum_name">Ethnographic museum</string>
+    <string name="etnographic_museum_work_times">ay - October: 10:00 - 17:00; Without a day off
+
+ \n November- April: 10:00 - 17:00; Closed on Saturday and Sunday</string>
+    <string name="etnographic_museum_info">"The museum presents the rich variety in culture and style of life of the population in Varna region from the second half of the 19th and the beginning of the 20th century.
+
+One of the most interesting exponents in the museum is the small ancient plough called “dyolmedzha”, used for ploughing of earth in the beginning of the 20th century. Vessels for storing of grain, as well as for preparing of bread are also exposed.
+
+The exposition on the second floor presents traditional national costumes, which give an idea about the demographic look of the Varna region. The people’s clothes in the settlements in the region differentiate with their great variety, due to the complex migration processes, which happened in the first decades and the end of the 19th century. Traditional costumes of each of the basic geographic groups in the region are presented here – local population and settlers from the Thracian region, Asia Minor and Macedonia. The traditional costumes for the customs – Christmas, Petlyovden, Lazarovden is also presented.
+
+Information materials and souvenirs are sold in the museum."</string>
+
+    <string name="dolphinarium_landmark_name">Dolphinarium</string>
+    <string name="dolphinarium_landmark_work_times">Day off: Monday
+
+\n October - March: 12:00;
+
+\n April: 12:00; 15:30;
+
+\n May - June: 10:30; 12:00; 15:30;
+
+\n July - August:10:30; 12:00; 15:30; 17:00;</string>
+    <string name="dolphinarium_landmark_info">"Festa Dolphinarium is the only attraction of its kind in Bulgaria. It is situated amidst the greenery of the Seaside Garden of Varna and offers a wonderful view over the sea.
+
+ The Dolphinarium was inaugurated on 11.08.1984 and quickly became a symbol of Varna and a landmark of Bulgarian tourism. The Dolphinarium is a permanent site on the agenda of all visitors of the Black Sea coast.
+
+ The building impresses with its futuristic structure and glass-and-aluminum front wall. The Dolphinarium building was designed by a team led by renowned architect Simeon Saraliev. The building itself is a light spatial structure shaped as a glass cube of walls 30 meters long and 14 meters high. Interesting is the fact that the earthworks at installation floor and pools were done after the bearing roof structure had been mounted."</string>
+
+    <string name="aquarium_landmark_name">Aquarium</string>
+    <string name="aquarium_landmark_work_times">June - September: 09:00 - 19:00; Without a day off
+
+\n October - May: 09:00 - 17:00; Day off: Monday</string>
+    <string name="aquarium_landmark_info">"Hundreds of species of fishes including mollusks, actinides, crabs and periwinkles were featured in the aquarium. Various species of fresh water river fish were also added to the aquarium. Being a novel attraction, the aquarium pulled large crowds from various parts of the country. Children were especially attracted to the huge variety of exotic fish that they had never ever seen before. Youngsters and adults alike were fascinated by the entertainment and educational value that the aquarium offered to its visitors. The Varna aquarium and the Sea Garden itself became one of the most popular and frequently visited attractions in the city."</string>
+
+    <string name="observatory_landmark_name">Astronomical observatory \"Nicolaus Copernicus\"</string>
+    <string name="observatory_landmark_work_times">"April-May: Tue, Thu, Sat:from 5 p.m.
+
+ June: Mon-Sat: from 5 p.m.
+
+ July-August: Mon-Sat: from 5 p.m.and from 7 p.m.
+
+ September: Tue, Thu, Sat:from 5 p.m.
+
+ October: Thu, Sat:from 5 p.m.
+
+ November-March: Sat:from 5 p.m."</string>
+    <string name="observatory_landmark_info">"The blast - off to the first artificial satellite of the Earth, provoke a huge interest in Bulgaria and this is the main reason for the formation of lots of clubs, devoted to the space. The enthusiasm was the reason to be established in the town of Varna in 1960 the first astronaut and astronomic club. Only a year later to the club was given the old Summer Theater in the central part of the sea garden in Varna. On 22 th. of May 1968 was opened the first astronomical complex in Bulgaria, named after Nikolai Kopernik. It consists of astronomical observatory, planetarium and a tower with Phuko’s pendulum.
+
+The main scientific reason is the observing and the shooting of artificial satellites on Earth, another reason is the education in this discipline. There is a monument of Kopernik in front of the planetarium’s entrance, made by professor L. Dalchev and P. Atanasov.
+
+ There are two spinning coupons on the third floor of the observatory, which were equipped with refractor 80/1200 mm at the beginning and a bigger telescope Kasegren 150/2250 mm.
+
+ The observatory is the first of this type in Bulgaria. The diameter of the coupon is 10,5 m. It is managed from the lector’s deck and can project over the coupon 5500 stars. In addition there are searchlights used for demonstration of the moving planets through the stars. There is also a special device which shows the solar system from 5-milliard km. From the beginning till 1998, the planetarium was visited from over 800 000 of people.
+
+ In the planetarium’s tower was assembled the Phuko’s pendulum. It is unique at the Balkan Peninsula and is the only prove that the Earth turns on its axis. In the premise under it, there is a small room where the visitors can observe the swing of the pendulum. In 1998 the Varna municipality took à decision to reconstruct the planetarium building.
+
+ The renewed building was opened on 15 th August 2002. The origin architecture was preserved, but now it is more modern, thanks to the architecture G. Savakov. For better vision adaptation there is a figural wall and the foyer dimly lightened, before entering into the hall. There are computer hall, library and lecture halls in the premises under the coupon. The decorative lights in the night convert the observatory into one of the accents in the sea garden."</string>
+
+    <string name="zoo_landmark_name">The Zoo - Varna</string>
+    <string name="zoo_landmark_work_times">"June - August: 09:00 - 19:00
+
+ Without a day off
+
+ September- May: 09:00 - 18:00
+
+ Without a day off"</string>
+    <string name="zoo_landmark_info">"The zoo disposes 72 different kinds of animals and birds, among which are ostrich, panther, llamas, camel, lions, tiger, pink pelican, peacock, etc. The Zoo is created a good water base for water birds among rich verdure. The visitors can watch the natural behavior of birds, while they float or plunge into the three cascade lakes. The Zoo is cared of 17 protected kinds of bids and animals, written in the Red Book of Bulgaria. Among the most reputable inhabitants are a couple of black swans, which are the only one of that kind in Bulgaria. Children and adults are attracted also by a couple of kangaroos, which came here in the end of 2007."</string>
+
 </resources>

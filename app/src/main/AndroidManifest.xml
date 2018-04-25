@@ -18,7 +18,8 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:label="@string/categories" />
+            android:label="@string/categories"
+            android:parentActivityName=".SplashActivity"/>
         <activity
             android:name=".MuseumsActivity"
             android:label="@string/museums" />
@@ -31,7 +32,11 @@
         <activity
             android:name=".PartiesActivity"
             android:label="@string/parties" />
-        <activity android:name=".PlacesActivity"></activity>
+        <activity android:name=".PlacesActivity"
+            android:label="Places"
+            android:parentActivityName=".MainActivity">
+
+        </activity>
     </application>
 
 </manifest>
